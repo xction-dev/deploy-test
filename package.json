@@ -1,0 +1,17 @@
+{
+  "name": "xction.co.kr",
+  "version": "0.0.0",
+  "scripts": {
+    "core": "yarn workspace core",
+    "client": "yarn workspace client",
+    "prettier": "prettier . --write"
+  },
+  "workspaces": [
+    "client"
+  ],
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.3.1"
+  }
+}
