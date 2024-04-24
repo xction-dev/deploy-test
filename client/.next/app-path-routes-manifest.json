@@ -1,0 +1,22 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/community/page": "/community",
+  "/dev/page": "/dev",
+  "/login/page": "/login",
+  "/layout/page": "/layout",
+  "/comment/page": "/comment",
+  "/register/page": "/register",
+  "/sample/page": "/sample",
+  "/paginationSample/page": "/paginationSample",
+  "/scrollTest/page": "/scrollTest",
+  "/work/page": "/work",
+  "/watch/[id]/page": "/watch/[id]",
+  "/api/mock/ping/route": "/api/mock/ping",
+  "/api/mock/echo/route": "/api/mock/echo",
+  "/api/mock/user/route": "/api/mock/user",
+  "/api/mock/user/login/route": "/api/mock/user/login",
+  "/api/mock/project/[id]/route": "/api/mock/project/[id]",
+  "/api/mock/user/register/route": "/api/mock/user/register",
+  "/api/mock/project/[id]/finish/route": "/api/mock/project/[id]/finish"
+}

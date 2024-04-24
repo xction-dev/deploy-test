@@ -1,0 +1,22 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/community/page": "app/community/page.js",
+  "/dev/page": "app/dev/page.js",
+  "/login/page": "app/login/page.js",
+  "/layout/page": "app/layout/page.js",
+  "/comment/page": "app/comment/page.js",
+  "/register/page": "app/register/page.js",
+  "/sample/page": "app/sample/page.js",
+  "/paginationSample/page": "app/paginationSample/page.js",
+  "/scrollTest/page": "app/scrollTest/page.js",
+  "/work/page": "app/work/page.js",
+  "/watch/[id]/page": "app/watch/[id]/page.js",
+  "/api/mock/ping/route": "app/api/mock/ping/route.js",
+  "/api/mock/echo/route": "app/api/mock/echo/route.js",
+  "/api/mock/user/route": "app/api/mock/user/route.js",
+  "/api/mock/user/login/route": "app/api/mock/user/login/route.js",
+  "/api/mock/project/[id]/route": "app/api/mock/project/[id]/route.js",
+  "/api/mock/user/register/route": "app/api/mock/user/register/route.js",
+  "/api/mock/project/[id]/finish/route": "app/api/mock/project/[id]/finish/route.js"
+}
